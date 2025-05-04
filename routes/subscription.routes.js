@@ -5,7 +5,7 @@ import {
     getAllSubscriptions,
     getSubscription,
     getSubscriptions
-} from "../controllers/suscription.controller.js";
+} from "../controllers/subscription.controller.js";
 
 const subscriptionRoutes = Router();
 
